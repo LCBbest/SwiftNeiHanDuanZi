@@ -27,7 +27,7 @@
 ###4.注意事项
     1）下载项目后发现桥文件找不到，请改成自己本地路径。Target->Building Setting->Swift Compiler->OC-Bridging-Header</br>
     2）下载项目后发现PrefixHeader.pch文件找不到，请改成自己本地路径。Target->Building Setting->prefix Header</br>
-    3）IJKMediaFramework.framework包太大，没上传，放到[百度云](链接: https://pan.baidu.com/s/1bpuuDdX)密码: mi6a，下载后拖进去就行。</br>
+    3）IJKMediaFramework.framework包太大，没上传，放到[百度云](https://pan.baidu.com/s/1bpuuDdX)密码: mi6a，下载后拖进去就行。</br>
     4）等。</br>
 ###5.个人说明
 * 项目还没做完，只做了20%，不过难点已经不多，剩下的基本相同。如果志同道合的朋友可以一起做。</br>
