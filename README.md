@@ -18,10 +18,17 @@
    13）Charles获取https数据。</br>
    等等。还没想到。</br>
 ###3.已做功能展示
+*项目整体框架</br>
+![](https://github.com/LCBbest/SwiftNeiHanDuanZi/blob/master/gif/gif_kuangjia.gif)</br>
+*直播列表与播放直播</br>
+![](https://github.com/LCBbest/SwiftNeiHanDuanZi/blob/master/gif/gif_zhibo.gif)</br>
+*视频界面，播放与全屏</br>
+![](https://github.com/LCBbest/SwiftNeiHanDuanZi/blob/master/gif/gif_shipin.gif)</br>
 ###4.注意事项
     1）下载项目后发现桥文件找不到，请改成自己本地路径。Target->Building Setting->Swift Compiler->OC-Bridging-Header</br>
     2）下载项目后发现PrefixHeader.pch文件找不到，请改成自己本地路径。Target->Building Setting->prefix Header</br>
-    3）等。</br>
+    3）IJKMediaFramework.framework包太大，没上传，放到[百度云](链接: https://pan.baidu.com/s/1bpuuDdX)密码: mi6a，下载后拖进去就行。</br>
+    4）等。</br>
 ###5.个人说明
 * 项目还没做完，只做了20%，不过难点已经不多，剩下的基本相同。如果志同道合的朋友可以一起做。</br>
 * 目前项目还存在bug（自己就知道好多），不过后期会修改，也不是什么大事。</br>
