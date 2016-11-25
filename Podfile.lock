@@ -1,0 +1,18 @@
+PODS:
+  - Just (0.5.7)
+  - Kingfisher (3.1.4)
+  - PagingMenuController (2.0.0)
+
+DEPENDENCIES:
+  - Just
+  - Kingfisher
+  - PagingMenuController
+
+SPEC CHECKSUMS:
+  Just: d19e769d86b965e39ae58cb3c0cbad07706634a8
+  Kingfisher: 6c67e3e57f2d81a9cfdfa25052cd86f33ceac9bb
+  PagingMenuController: 60602bfb5421d6536c1e3097baeed601dec1d85b
+
+PODFILE CHECKSUM: 3eeab5e6c342fd1d06265bfc95a38f57baeb1928
+
+COCOAPODS: 1.1.1
